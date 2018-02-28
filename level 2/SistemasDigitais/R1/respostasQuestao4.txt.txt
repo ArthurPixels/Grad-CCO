@@ -1,0 +1,7 @@
+Com base nas informações apresentadas pelo relatório do Quartus, apresente os dados abaixo, sobre o
+projeto compilado.
+Total Combinational functions: 265 / 33,216 ( < 1 % )
+Total Logic Registers: 0 / 33,216 ( 0 % )
+Total pins: 117 / 475 ( 25% )
+Propagation delay (TPD) : 20.520 ns
+from pin (input port): ULAFonte to pin (output port): FontePC
